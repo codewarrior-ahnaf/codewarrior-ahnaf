@@ -2,10 +2,6 @@
   <img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/eea4a1c7-392b-4970-b409-ac45088a078e" />
 </div>
 <br/><br/>
-<div>
-  <img src>
-</div>
-
 <div align="center">
   <h1>Hi, I'm Ahnaf Shahriar Abir <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CB16FD&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Learning+Web+Dev;%F0%9F%8E%AF+Goal%3A+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Backend+Enthusiast;%F0%9F%93%B1+Exploring+Android+Dev" alt="Typing SVG"/>
