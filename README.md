@@ -90,12 +90,12 @@ An **Aspiring Junior Software Developer** dedicated to building functional, scal
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=codewarrior-ahnaf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewarrior-ahnaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=codewarrior-ahnaf&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewarrior-ahnaf&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewarrior-ahnaf&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewarrior-ahnaf&theme=tokyonight&utc=6" alt="Activity Graph" />
 </p>
 
 ---
