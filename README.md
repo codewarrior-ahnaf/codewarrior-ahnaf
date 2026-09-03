@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-An **Aspiring Junior Software Developer** dedicated to building functional, scalable, and user-centric web applications. Passionate about modern web technologies, clean architecture, and continuous technical growth.
+> **An Aspiring Junior Software Developer** dedicated to building functional, scalable, and user-centric web applications. Passionate about modern web technologies, clean architecture, and continuous technical growth.
 
 - 🌱 Currently Learning: **JavaScript, TypeScript, React, Next.js, Node.js & Full-Stack Web Architecture**
 - 🎯 Goal: **Full Stack Web Developer**
