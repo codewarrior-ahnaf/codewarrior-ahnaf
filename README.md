@@ -22,7 +22,7 @@
 - 📱 Also exploring: **Android App Development**
 - 📫 Reach me at: **abirahnafshahriar@gmail.com**
 
-🌐 Portfolio 👉 [codewarrior-ahnaf.github.io/abir-portfolio](https://codewarrior-ahnaf.github.io/abir-portfolio)
+🌐 Portfolio 👉 [codewarrior-ahnaf.github.io/abir](https://codewarrior-ahnaf.github.io/abir)
 
 ---
 
