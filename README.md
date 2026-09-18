@@ -20,6 +20,10 @@
 
 🌐 Portfolio 👉 [codewarrior-ahnaf.github.io/abir](https://codewarrior-ahnaf.github.io/abir)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewarrior-ahnaf&color=007ec6" alt="Profile views" />
+</p>
+
 ---
 
 ### 💻 Tech Stack
@@ -68,7 +72,7 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=codewarrior-ahnaf&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewarrior-ahnaf&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewarrior-ahnaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
